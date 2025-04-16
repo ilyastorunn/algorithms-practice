@@ -1,0 +1,19 @@
+{
+  "name": "algorithms-practice",
+  "version": "1.0.0",
+  "description": "JavaScript ile algoritma ve veri yapıları çalışmaları",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 
