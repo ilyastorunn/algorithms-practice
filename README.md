@@ -1,29 +1,37 @@
-# JavaScript Algoritma ve Veri Yapıları Çalışmaları
+# JavaScript Algorithms and Data Structures Practice
 
-Bu repo, JavaScript ile algoritma ve veri yapıları öğrenme sürecindeki çalışmaları içermektedir.
+This repository contains implementations of various algorithms and data structures in JavaScript.
 
-## Klasör Yapısı
+## Project Structure
 
-- `src/algorithms`: Temel algoritma implementasyonları
-  - Sıralama algoritmaları
-  - Arama algoritmaları
-  - Diğer popüler algoritmalar
-- `src/data-structures`: Veri yapıları implementasyonları
-  - Bağlı listeler
-  - Ağaçlar
-  - Yığınlar
-  - Kuyruklar
-  - Hash tabloları
-- `tests`: Test dosyaları
+- `src/algorithms`: Basic algorithm implementations
+  - Sorting algorithms
+  - Searching algorithms
+  - Other popular algorithms
+- `src/data-structures`: Data structure implementations
+  - Linked Lists
+  - Trees
+  - Stacks
+  - Queues
+  - Hash Tables
+- `tests`: Test files
 
-## Kurulum
+## Installation
 
 ```bash
 npm install
 ```
 
-## Testleri Çalıştırma
+## Running Tests
 
 ```bash
 npm test
-``` 
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request 

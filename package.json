@@ -1,7 +1,7 @@
 {
   "name": "algorithms-practice",
   "version": "1.0.0",
-  "description": "JavaScript ile algoritma ve veri yapıları çalışmaları",
+  "description": "Algorithms and Data Structures practice with JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "jest"
